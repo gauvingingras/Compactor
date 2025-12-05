@@ -1,0 +1,3 @@
+displayName = Compactor
+author = GrandPere
+version = 0.1
